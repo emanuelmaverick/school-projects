@@ -1,2 +1,3 @@
-# school-projects
-Computer Engineering projects and assignments organized by subject.
+# School Projects 👨‍💻
+
+All my coding projects and assignments for Computer Engineering courses, organized by subject and chapter.
